@@ -1,19 +1,19 @@
-## 👋 Hi there, I'm José
+## 👋 ¡Hola! Soy José
 
-**Systems & Data Engineer | SCADA | IIoT | Data Science | .NET Developer**
+**Ingeniero de Sistemas | Data Science | SCADA | IoT**
 
-### 🚀 About Me
+## 🚀 Acerca de mí
 
-- 👨‍💻 Experienced in **industrial automation and software development**, focused on real-world applications in Industry 4.0.
-- 🏭 Skilled in **SCADA systems**, particularly with **AVEVA Edge, OMI, Application Server and Historian**.
-- ⚙️ Strong background in **.NET development (C#, VB.NET)** and **SQL Server**.
-- 📊 Passionate about **data analysis, machine learning** and how data-driven decisions enhance industrial performance.
-- 🧠 Continuous learner, always exploring new technologies to bring innovation and efficiency to the industrial environment.
-- 🤝 Team-oriented mindset, used to working in multidisciplinary and customer-centric environments.
+- 👨‍💻 Profesional con más de 15 años de experiencia en entornos tecnológicos e industriales.
+- ⚙️ Desarrollo de software con **VB.NET, C#, SQL Server y Python** para soluciones industriales y de negocio.
+- 🏭 Especializado en sistemas **SCADA** y soluciones de automatización con **AVEVA (Edge, OMI, Historian, Application Server)**.
+- 📊 Apasionado por el **análisis de datos** y el uso de modelos de Machine Learning aplicados al entorno productivo.
+- 🤝 Acostumbrado a trabajar en equipo, centrado en aportar valor real al cliente.
+- 🧠 En constante aprendizaje, siempre explorando nuevas herramientas y tecnologías para mejorar procesos y resultados.
 
 ---
 
-## 🛠️ Core Skills
+## 🛠️ Tecnologías que uso
 
 <p align="center">
   <img src="https://img.shields.io/badge/SCADA%20Systems-00599C?style=for-the-badge" />
@@ -30,12 +30,22 @@
 
 ---
 
-### 🛠 What I’m building here
-This GitHub space is my technical lab — a place to document ideas, tools, and projects related to:
-- SCADA utilities and development best practices
-- Data science experiments with real industrial context
-- Useful automation scripts and integration tools
-- Reusable code snippets and technical guides
+## 📁 Repositorios en desarrollo
+
+Estoy organizando mi perfil para incluir repositorios orientados a los siguientes temas:
+
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <a>
+   <img src="https://github-readme-stats.vercel.app/api?username=jmartiray&show_icons=true&theme=default" />
+  </a>
+
+  <!-- Lenguajes más usados -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmartiray&layout=compact&langs_count=10&theme=default" />
+</p>
+
 
 ---
 
