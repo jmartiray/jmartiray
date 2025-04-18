@@ -1,6 +1,6 @@
 ## 👋 ¡Hola! Soy José
 
-**Ingeniero de Sistemas | Data Science | SCADA | IoT**
+**Ingeniero de Sistemas | SCADA & IIoT | OT Data Specialist**
 
 ## 🚀 Acerca de mí
 
