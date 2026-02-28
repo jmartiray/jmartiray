@@ -6,7 +6,7 @@
 
 - 👨‍💻 Profesional con más de 15 años de experiencia en entornos tecnológicos e industriales.
 - ⚙️ Desarrollo de software con **VB.NET, C#, SQL Server y Python** para soluciones industriales y de negocio.
-- 🏭 Especializado en sistemas **SCADA** y soluciones de automatización con **AVEVA (Edge, OMI, Historian, Application Server)**.
+- 🏭 Especializado en sistemas **SCADA** y soluciones de automatización con **AVEVA System Platform**.
 - 📊 Apasionado por el **análisis de datos** y el uso de modelos de Machine Learning aplicados al entorno productivo.
 - 🤝 Acostumbrado a trabajar en equipo, centrado en aportar valor real al cliente.
 - 🧠 En constante aprendizaje, siempre explorando nuevas herramientas y tecnologías para mejorar procesos y resultados.
