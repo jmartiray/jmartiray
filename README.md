@@ -17,7 +17,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/SCADA%20Systems-00599C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AVEVA%20Edge%20%7C%20OMI%20%7C%20Historian-002654?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Industrial%20IoT-006699?style=for-the-badge" />
   <img src="https://img.shields.io/badge/.NET%20(C%23%20%7C%20VB.NET)-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
